@@ -1,2 +1,2 @@
-# Gaming-Website
+# gamingstore
 Gaming Website
