@@ -40,3 +40,7 @@ Follow these steps to install and set up the gaming store project locally:
 
 ## Credits
 I would like to thank the team at HyperionDev for educating me on how to use Github to showcase my work.
+
+
+## URL
+[Gamingstore](https://douwsteyn021.github.io/Gaming-Website/)
