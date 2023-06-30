@@ -8,13 +8,13 @@ This website is imprtant because it provides users a safe platform to view their
 ##Installation
 Follow these steps to install and set up the gaming store project locally:
 
-1. **Clone the repository:**
+1. ** Clone the repository: **
   git clone https://github.com/your-username/gamingstore.git
 
-2. **Navigate to the project directory:**
+2. ** Navigate to the project directory: **
   cd gamingstore
 
-3. **Create and activate a virtual environment:**
+3. ** Create and activate a virtual environment: **
   On Mac:
   python3 -m venv venv
   source venv/bin/activate
